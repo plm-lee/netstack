@@ -19,15 +19,15 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/google/netstack/tcpip"
-	"github.com/google/netstack/tcpip/buffer"
-	"github.com/google/netstack/tcpip/header"
-	"github.com/google/netstack/tcpip/link/channel"
-	"github.com/google/netstack/tcpip/network/ipv4"
-	"github.com/google/netstack/tcpip/network/ipv6"
-	"github.com/google/netstack/tcpip/stack"
-	"github.com/google/netstack/tcpip/transport/udp"
-	"github.com/google/netstack/waiter"
+	"github.com/plm-lee/netstack/tcpip"
+	"github.com/plm-lee/netstack/tcpip/buffer"
+	"github.com/plm-lee/netstack/tcpip/header"
+	"github.com/plm-lee/netstack/tcpip/link/channel"
+	"github.com/plm-lee/netstack/tcpip/network/ipv4"
+	"github.com/plm-lee/netstack/tcpip/network/ipv6"
+	"github.com/plm-lee/netstack/tcpip/stack"
+	"github.com/plm-lee/netstack/tcpip/transport/udp"
+	"github.com/plm-lee/netstack/waiter"
 )
 
 const (

@@ -14,7 +14,7 @@
 
 package header
 
-import "github.com/google/netstack/tcpip"
+import "github.com/plm-lee/netstack/tcpip"
 
 const (
 	// ARPProtocolNumber is the ARP network protocol number.

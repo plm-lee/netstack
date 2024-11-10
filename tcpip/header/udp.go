@@ -17,7 +17,7 @@ package header
 import (
 	"encoding/binary"
 
-	"github.com/google/netstack/tcpip"
+	"github.com/plm-lee/netstack/tcpip"
 )
 
 const (

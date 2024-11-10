@@ -17,13 +17,13 @@ package stack_test
 import (
 	"testing"
 
-	"github.com/google/netstack/tcpip"
-	"github.com/google/netstack/tcpip/buffer"
-	"github.com/google/netstack/tcpip/iptables"
-	"github.com/google/netstack/tcpip/link/channel"
-	"github.com/google/netstack/tcpip/link/loopback"
-	"github.com/google/netstack/tcpip/stack"
-	"github.com/google/netstack/waiter"
+	"github.com/plm-lee/netstack/tcpip"
+	"github.com/plm-lee/netstack/tcpip/buffer"
+	"github.com/plm-lee/netstack/tcpip/iptables"
+	"github.com/plm-lee/netstack/tcpip/link/channel"
+	"github.com/plm-lee/netstack/tcpip/link/loopback"
+	"github.com/plm-lee/netstack/tcpip/stack"
+	"github.com/plm-lee/netstack/waiter"
 )
 
 const (
